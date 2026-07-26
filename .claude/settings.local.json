@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python3 -c \"import yaml; yaml.safe_load\\(open\\('.github/workflows/stock-alert.yml'\\)\\); print\\('YAML_OK'\\)\")",
-      "Bash(python3 -c ' *)"
-    ]
-  }
-}

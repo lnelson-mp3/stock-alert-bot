@@ -26,3 +26,4 @@ desktop.ini
 # Editor/IDE files
 .vscode/
 .idea/
+.claude/settings.local.json
